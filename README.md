@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Priyanshu Chauhan
 
-<!--
-**PriyanshuChauhan-1/PriyanshuChauhan-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech Graduate | Full Stack Developer | AI/ML Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+
+- Doctor Appointment Booking System (MERN Stack)
+- Textract - Handwritten Text Recognition (AI/Deep Learning)
+- Tic Tac Toe AI (Minimax Algorithm)
+- Supermarket Billing System (C++)
+- Weather App (JavaScript)
+
+---
+
+## 🛠 Skills
+- Python, C, JavaScript
+- React.js
+- MongoDB, SQL
+- TensorFlow, AI/ML
+
+---
+
+## 📫 Contact
+Email: priyanshuchauhan1123@gmail.com
