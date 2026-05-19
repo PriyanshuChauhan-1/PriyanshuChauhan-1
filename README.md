@@ -11,8 +11,7 @@ B.Tech Graduate | Full Stack Developer | AI/ML Enthusiast
 - Tic Tac Toe AI (Minimax Algorithm)
 - Supermarket Billing System (C++)
 - Weather App (JavaScript)
-💻 Tech Stack:
-C C++ CSS3 HTML5 Java JavaScript Objective-C Python AWS Google Cloud React React Query React Router React Hook Form Vite MongoDB MySQL Canva
+
 ---
 
 ## 🛠 Skills
